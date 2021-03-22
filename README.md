@@ -6,6 +6,10 @@ in a faster way via the command line interface. Under no circumstances should th
 
 # Usage
 
+```python
+nus_htd = NUSHTD("nusstu\\<NUSNET_ID>", "<PASSWORD>") #account details to be filled
+```
+
 `python3 nus_htd.py` <br />
 `What temperature would you like to declare? 36.9` <br />
-Successfully declared temperature on 22/03/2021 (AM) with 36.9 for user ending 123 .
+`Successfully declared temperature on 22/03/2021 (AM) with 36.9 for user ending 123 .`
